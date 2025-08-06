@@ -3,7 +3,7 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { AudiusTrack } from './components/types';
 import { searchAudius } from './services/audiusService';
 import SearchView from './components/SearchView';
-import Player from './components/Player';
+import Player from './components/Player.tsx';
 import HomeView from './components/HomeView';
 import BottomNav from './components/BottomNav';
 import TopHeader from './components/TopHeader';
