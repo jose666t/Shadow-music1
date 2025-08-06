@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Music Player",
+  "description": "A music player that uses the vast and stable Audius catalog for searching and streaming full-length tracks.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
